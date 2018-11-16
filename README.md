@@ -1,10 +1,6 @@
 # dcop
 Distributed Objective Operation Routine
 
-dcop project
-
-dcop : Distributed Component Object Platform
-
 In the 3-tier architecture, the important and complex unusually process is 'Business Logic Layer'.
 
 So we abstract the basic object action and the relationship between the objects. 
