@@ -1,5 +1,5 @@
 # dcop
-Distributed Objective Operation Routine
+Distributed Object Operating Routine
 
 In the 3-tier architecture, the important and complex unusually process is 'Business Logic Layer'.
 
