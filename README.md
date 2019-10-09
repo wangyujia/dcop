@@ -1,9 +1,26 @@
 # door
 Distributed Object Operating Routine
 
-In the 3-tier architecture, the important and complex unusually process is 'Business Logic Layer'.
 
-So we abstract the basic object action and the relationship between the objects. 
-And we make these logic architectures into a platform. In the platform, we think a lot of reusability, scalability, reliability and so on.
+## door.plat
+Platform running on cloud, edge and end.
 
-There are 3 layers: wrappers, frameworks and components.
+
+## door.lang
+Language coding as glue between native components.
+
+
+## door.edge
+OS running on network edge device.
+
+
+## door.jx
+door pattern extend on Java.
+
+
+## door.jsx
+door pattern extend on Javascript.
+
+
+## door.pyx
+door pattern extend on Python.
